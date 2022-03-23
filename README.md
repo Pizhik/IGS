@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/GM-DONATE/IGS/total?label=%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA">
-  <img src="https://img.shields.io/github/languages/code-size/GM-DONATE/IGS">
-  <img src="https://img.shields.io/github/license/GM-DONATE/IGS">
+  <img src="https://img.shields.io/github/downloads/Pizhik/IGS/total?label=%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA">
+  <img src="https://img.shields.io/github/languages/code-size/Pizhik/IGS">
+  <img src="https://img.shields.io/github/license/Pizhik/IGS">
 </p>
+
+# ⚠️ Внимание! Это форк внутриигрового магазина без политического контента и тому подобных закладок! Автоматическое обновление не зависит от gm-donate! ⚠️
+Вы можете скачать его если не хотите ждать от автора в будущем новых политически настроенных незадокументированных функций и/или хотите убрать [уже существующие](https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd1044710f28c10afa801521cb6bc). Обратите внимание на страницу релиза.
 
 # InGameShop (IGS)
 **Внутриигровой магазин от gm-donate.ru** — аддон для Garry's Mod, который добавляет на сервер F1 меню, через которое игроки могут сделать пожертвование и обменять полученные баллы на виртуальные привилегии: группы прав, оружие, модельки, хвосты, транспорт и т.д.
@@ -10,7 +13,7 @@
 <img align="left" width="450" src="https://user-images.githubusercontent.com/9200174/111821738-aad96c80-88eb-11eb-91ba-a98a2c3d770a.png">
 
 ## Инструкция по установке
-1. Скачайте igsmodification по указанной ссылке: [скачать](https://github.com/GM-DONATE/IGS/releases/latest/download/igs-mod.zip) и распакуйте его в папку /addons на сервере
+1. Скачайте igsmodification по указанной ссылке: [скачать (⚠️ссылка изменена на независимый от оригинального разработчика репозиторий⚠️)](https://github.com/PIZHIK/IGS/releases/latest/download/igs-mod.zip) и распакуйте его в папку /addons на сервере
 Этот скрипт используется для настройки автодоната, а также скачивает его последнюю версию
 2. В файле config_sv.lua укажите ID проекта и секретный ключ, который указан на странице проекта [на сайте](https://gm-donate.ru/panel/) (проект нужно создать)
 
